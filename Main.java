@@ -5,3 +5,5 @@ class Main {
         System.out.println("Hello, World!");
     }
 }
+amskdmaklmflka\açl\dalçd
+adsmlmks
